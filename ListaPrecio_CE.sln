@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{D183A3D8-5FD8-494B-B014-37F57B35E655}") = "ListaPrecio_CE", "ListaPrecio_CE\ListaPrecio_CE.dtproj", "{00F7C06C-CD4B-4A12-8F84-5CC26B6CA678}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00F7C06C-CD4B-4A12-8F84-5CC26B6CA678}.Development|Default.ActiveCfg = Development
+		{00F7C06C-CD4B-4A12-8F84-5CC26B6CA678}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
